@@ -14,7 +14,7 @@
   "license": "proprietary",
   "autoload": {
     "psr-4": {
-      "Ffm\\Common\\": "src/Ffm/Common/"
+      "Ffm\\Common\\": "src"
     },
     "files": [
       "registration.php"
