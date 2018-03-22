@@ -9,11 +9,8 @@ Version
 Compatibility
 -------------
 tested on
-- Magento >= EE 2.2.3
-
-Roadmap
--------------
-Introduce environment profiles
+- Magento CE >= 2.2.2
+- Magento EE >= 2.2.2
 
 Developer
 ---------
