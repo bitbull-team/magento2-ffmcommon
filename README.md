@@ -12,6 +12,9 @@ tested on
 - Magento CE >= 2.2.2
 - Magento EE >= 2.2.2
 
+in testing on
+- Magento CE 2.3.1
+
 Developer
 ---------
 Nadia Sala - [n.sala@fitforme.nl](mailto:n.sala@fitforme.nl)
