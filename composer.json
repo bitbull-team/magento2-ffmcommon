@@ -1,5 +1,5 @@
 {
-  "name": "ffm/common",
+  "name": "bitbull/ffm-common",
   "description": "Common utilities for Magento 2 projects",
   "require": {
     "magento/framework" : "^101.0||^102.0"
